@@ -1,0 +1,5 @@
+juegos.ingles.AdministradorJuegoAhorcado$1
+juegos.ingles.AdministradorJuegoAhorcado$2
+juegos.ingles.AdministradorJuegoAhorcado
+juegos.ingles.AdministradorJuegoAhorcado$3
+juegos.ingles.AdministradorJuegoAhorcado$4
